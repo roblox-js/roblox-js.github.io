@@ -14,7 +14,7 @@
             Github
           </a>
           <a
-            href="https://roblox-js.github.io/docs"
+            href="https://docs.roflare.ml/"
             target="_blank"
             rel="noreferrer noopener"
             class="header-link1 Large"
