@@ -72,11 +72,11 @@ export default {
     OutlineGrayButton,
   },
   metaInfo: {
-    title: 'Soft UI Pro',
+    title: 'Roblox.js',
     meta: [
       {
         property: 'og:title',
-        content: 'Soft UI Pro',
+        content: 'Roblox.js',
       },
     ],
   },
